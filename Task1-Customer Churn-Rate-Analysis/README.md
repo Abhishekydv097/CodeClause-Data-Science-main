@@ -39,6 +39,6 @@ Overall, predicting customer churn allows businesses to proactively address cust
 
 ## ✍️ Authors
 
-- [Abhiram Laha](https://github.com/Abhiram-Laha)
+- [ Abhishek Yadav ](https://github.com/Abhishekydv097)
 
 <br>

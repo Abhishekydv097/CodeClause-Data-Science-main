@@ -29,6 +29,6 @@ Plotting the active cases in states as on end date i.e. 8th May 2021
 
 ## ✍️ Authors
 
-- [Abhiram Laha](https://github.com/Abhiram-Laha)
+- [ Abhishek Yadav ](https://github.com/Abhishekydv097)
 
 <br>
