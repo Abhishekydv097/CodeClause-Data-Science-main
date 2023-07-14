@@ -15,11 +15,11 @@ Plotting the active cases in states as on end date i.e. 8th May 2021
 
 ## 👀 Screenshots
 
-<img src = "C:\Users\abhis\Downloads\CodeClause-Data-Science-main\Task1-Customer Churn-Rate-Analysis\images\1.pngs">
-<img src = "images/2.png">
-<img src = "images/3.png">
-<img src = "images/4.png">
-<img src = "images/5.png">
+<img src = "/Task1-Customer Churn-Rate-Analysis/images/1.png">
+<img src = "/Task1-Customer Churn-Rate-Analysis/images/2.png">
+<img src = "/Task1-Customer Churn-Rate-Analysis/images/3.png">
+<img src = "/Task1-Customer Churn-Rate-Analysis/images/4.png">
+<img src = "/Task1-Customer Churn-Rate-Analysis/images/5.png">
 
 <br>
 
